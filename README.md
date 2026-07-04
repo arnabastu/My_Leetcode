@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/arnabastu/My_Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/arnabastu/My_Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/arnabastu/My_Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/arnabastu/My_Leetcode/tree/master/0016-3sum-closest) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/arnabastu/My_Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/arnabastu/My_Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/arnabastu/My_Leetcode/tree/master/0014-longest-common-prefix) |
 ## Trie
@@ -80,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/arnabastu/My_Leetcode/tree/master/0002-add-two-numbers) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/arnabastu/My_Leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
