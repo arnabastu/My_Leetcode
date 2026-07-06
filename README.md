@@ -10,6 +10,7 @@ A collection of my LeetCode questions that I have solved till now!
 | [0007-reverse-integer](https://github.com/arnabastu/My_Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/arnabastu/My_Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/arnabastu/My_Leetcode/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/arnabastu/My_Leetcode/tree/master/0268-missing-number) |
 ## Array
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of my LeetCode questions that I have solved till now!
 | [0035-search-insert-position](https://github.com/arnabastu/My_Leetcode/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/arnabastu/My_Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/arnabastu/My_Leetcode/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/arnabastu/My_Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/arnabastu/My_Leetcode/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/arnabastu/My_Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
@@ -51,6 +53,7 @@ A collection of my LeetCode questions that I have solved till now!
 | [0018-4sum](https://github.com/arnabastu/My_Leetcode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/arnabastu/My_Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/arnabastu/My_Leetcode/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/arnabastu/My_Leetcode/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/arnabastu/My_Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
@@ -61,6 +64,7 @@ A collection of my LeetCode questions that I have solved till now!
 | ------- |
 | [0001-two-sum](https://github.com/arnabastu/My_Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/arnabastu/My_Leetcode/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/arnabastu/My_Leetcode/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -78,6 +82,7 @@ A collection of my LeetCode questions that I have solved till now!
 | [0033-search-in-rotated-sorted-array](https://github.com/arnabastu/My_Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/arnabastu/My_Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/arnabastu/My_Leetcode/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/arnabastu/My_Leetcode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -94,4 +99,8 @@ A collection of my LeetCode questions that I have solved till now!
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/arnabastu/My_Leetcode/tree/master/0005-longest-palindromic-substring) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/arnabastu/My_Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
