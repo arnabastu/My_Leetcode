@@ -35,6 +35,7 @@ A collection of my LeetCode questions that I have solved till now!
 | [0268-missing-number](https://github.com/arnabastu/My_Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/arnabastu/My_Leetcode/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/arnabastu/My_Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/arnabastu/My_Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of my LeetCode questions that I have solved till now!
 | [0189-rotate-array](https://github.com/arnabastu/My_Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/arnabastu/My_Leetcode/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/arnabastu/My_Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/arnabastu/My_Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
 | ------- |
@@ -111,4 +113,8 @@ A collection of my LeetCode questions that I have solved till now!
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/arnabastu/My_Leetcode/tree/master/0268-missing-number) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/arnabastu/My_Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
