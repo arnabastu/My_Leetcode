@@ -37,6 +37,7 @@ A collection of my LeetCode questions that I have solved till now!
 | [0268-missing-number](https://github.com/arnabastu/My_Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/arnabastu/My_Leetcode/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/arnabastu/My_Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1331-rank-transform-of-an-array](https://github.com/arnabastu/My_Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/arnabastu/My_Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -64,6 +65,7 @@ A collection of my LeetCode questions that I have solved till now!
 | [0088-merge-sorted-array](https://github.com/arnabastu/My_Leetcode/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/arnabastu/My_Leetcode/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/arnabastu/My_Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1331-rank-transform-of-an-array](https://github.com/arnabastu/My_Leetcode/tree/master/1331-rank-transform-of-an-array) |
 ## Greedy
 |  |
 | ------- |
@@ -75,6 +77,7 @@ A collection of my LeetCode questions that I have solved till now!
 | [0013-roman-to-integer](https://github.com/arnabastu/My_Leetcode/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/arnabastu/My_Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/arnabastu/My_Leetcode/tree/master/0268-missing-number) |
+| [1331-rank-transform-of-an-array](https://github.com/arnabastu/My_Leetcode/tree/master/1331-rank-transform-of-an-array) |
 ## String
 |  |
 | ------- |
