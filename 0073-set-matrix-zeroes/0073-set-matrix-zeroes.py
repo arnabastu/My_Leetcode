@@ -1,23 +1,16 @@
 class Solution:
     def setZeroes(self, matrix: List[List[int]]) -> None:
-        def mat_infi(matrix , row , col):
-            r = len(matrix)
-            c = len(matrix[0])
-
-            for i in range(0 , r):
-                if matrix[i][col] != 0:
-                    matrix[i][col] = float("inf")
-            for j in range(0 , c):
-                if matrix[row][j] != 0:
-                    matrix[row][j] = float("inf")
-        r = len(matrix) 
+        r = len(matrix)
         c = len(matrix[0])
+        rowtrack = [0 for _ in range(r)]
+        coltrack = [0 for _ in range(c)]
         for i in range(0 , r):
             for j in range(0 , c):
                 if matrix[i][j] == 0:
-                    mat_infi(matrix , i , j)
+                    rowtrack[i] = -1
+                    coltrack[j] = -1
 
         for i in range(0 , r):
             for j in range(0 , c):
-                if matrix[i][j] == float("inf"):
+                if rowtrack[i] == -1 or coltrack[j] ==-1:
                     matrix[i][j] = 0
