@@ -29,6 +29,7 @@ A collection of my LeetCode questions that I have solved till now!
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/arnabastu/My_Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/arnabastu/My_Leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/arnabastu/My_Leetcode/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/arnabastu/My_Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/arnabastu/My_Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/arnabastu/My_Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arnabastu/My_Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -75,6 +76,7 @@ A collection of my LeetCode questions that I have solved till now!
 | ------- |
 | [0001-two-sum](https://github.com/arnabastu/My_Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/arnabastu/My_Leetcode/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/arnabastu/My_Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/arnabastu/My_Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/arnabastu/My_Leetcode/tree/master/0268-missing-number) |
 | [1331-rank-transform-of-an-array](https://github.com/arnabastu/My_Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -128,4 +130,8 @@ A collection of my LeetCode questions that I have solved till now!
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/arnabastu/My_Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/arnabastu/My_Leetcode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
