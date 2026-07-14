@@ -31,6 +31,7 @@ A collection of my LeetCode questions that I have solved till now!
 | [0035-search-insert-position](https://github.com/arnabastu/My_Leetcode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/arnabastu/My_Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/arnabastu/My_Leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/arnabastu/My_Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/arnabastu/My_Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/arnabastu/My_Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/arnabastu/My_Leetcode/tree/master/0088-merge-sorted-array) |
@@ -127,6 +128,7 @@ A collection of my LeetCode questions that I have solved till now!
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/arnabastu/My_Leetcode/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/arnabastu/My_Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Union-Find
 |  |
@@ -136,5 +138,6 @@ A collection of my LeetCode questions that I have solved till now!
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/arnabastu/My_Leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/arnabastu/My_Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/arnabastu/My_Leetcode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
