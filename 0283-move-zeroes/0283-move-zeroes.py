@@ -1,18 +1,12 @@
-class Solution(object):
-    def moveZeroes(self, nums):
-        if not nums:
-            return
-        
-        
-        insert_pos = 0
-        
+class Solution:
+    def moveZeroes(self, nums: List[int]) -> None:
+        i = 0
+        j = 0
 
-        for num in nums:
-            if num != 0:
-                nums[insert_pos] = num
-                insert_pos += 1
-                
-
-        while insert_pos < len(nums):
-            nums[insert_pos] = 0
-            insert_pos += 1
+        while j<=len(nums):
+            if j< len(nums) and nums[j] != 0:
+                nums[i] , nums[j] = nums[j] , nums[i]
+                i+=1
+                j+=1
+            else:
+                j+=1        
