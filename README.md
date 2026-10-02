@@ -60,6 +60,7 @@ A collection of my LeetCode questions that I have solved till now!
 | [0088-merge-sorted-array](https://github.com/arnabastu/My_Leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/arnabastu/My_Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/arnabastu/My_Leetcode/tree/master/0283-move-zeroes) |
+| [0876-middle-of-the-linked-list](https://github.com/arnabastu/My_Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/arnabastu/My_Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/arnabastu/My_Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
@@ -118,6 +119,7 @@ A collection of my LeetCode questions that I have solved till now!
 | [0002-add-two-numbers](https://github.com/arnabastu/My_Leetcode/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/arnabastu/My_Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/arnabastu/My_Leetcode/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/arnabastu/My_Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
