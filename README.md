@@ -116,10 +116,12 @@ A collection of my LeetCode questions that I have solved till now!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/arnabastu/My_Leetcode/tree/master/0002-add-two-numbers) |
+| [0203-remove-linked-list-elements](https://github.com/arnabastu/My_Leetcode/tree/master/0203-remove-linked-list-elements) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/arnabastu/My_Leetcode/tree/master/0002-add-two-numbers) |
+| [0203-remove-linked-list-elements](https://github.com/arnabastu/My_Leetcode/tree/master/0203-remove-linked-list-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
