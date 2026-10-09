@@ -94,6 +94,7 @@ A collection of my LeetCode questions that I have solved till now!
 | [0005-longest-palindromic-substring](https://github.com/arnabastu/My_Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/arnabastu/My_Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/arnabastu/My_Leetcode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/arnabastu/My_Leetcode/tree/master/0020-valid-parentheses) |
 ## Trie
 |  |
 | ------- |
@@ -158,4 +159,12 @@ A collection of my LeetCode questions that I have solved till now!
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/arnabastu/My_Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/arnabastu/My_Leetcode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/arnabastu/My_Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
