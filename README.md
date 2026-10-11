@@ -43,6 +43,7 @@ A collection of my LeetCode questions that I have solved till now!
 | [0189-rotate-array](https://github.com/arnabastu/My_Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/arnabastu/My_Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/arnabastu/My_Leetcode/tree/master/0283-move-zeroes) |
+| [0496-next-greater-element-i](https://github.com/arnabastu/My_Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/arnabastu/My_Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/arnabastu/My_Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/arnabastu/My_Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -88,6 +89,7 @@ A collection of my LeetCode questions that I have solved till now!
 | [0073-set-matrix-zeroes](https://github.com/arnabastu/My_Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/arnabastu/My_Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/arnabastu/My_Leetcode/tree/master/0268-missing-number) |
+| [0496-next-greater-element-i](https://github.com/arnabastu/My_Leetcode/tree/master/0496-next-greater-element-i) |
 | [1331-rank-transform-of-an-array](https://github.com/arnabastu/My_Leetcode/tree/master/1331-rank-transform-of-an-array) |
 ## String
 |  |
@@ -166,6 +168,7 @@ A collection of my LeetCode questions that I have solved till now!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/arnabastu/My_Leetcode/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/arnabastu/My_Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/arnabastu/My_Leetcode/tree/master/0503-next-greater-element-ii) |
 ## Bracket Sequences
 |  |
@@ -174,5 +177,6 @@ A collection of my LeetCode questions that I have solved till now!
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/arnabastu/My_Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/arnabastu/My_Leetcode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
