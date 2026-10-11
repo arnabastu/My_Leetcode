@@ -43,6 +43,7 @@ A collection of my LeetCode questions that I have solved till now!
 | [0189-rotate-array](https://github.com/arnabastu/My_Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/arnabastu/My_Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/arnabastu/My_Leetcode/tree/master/0283-move-zeroes) |
+| [0503-next-greater-element-ii](https://github.com/arnabastu/My_Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/arnabastu/My_Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/arnabastu/My_Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/arnabastu/My_Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -165,8 +166,13 @@ A collection of my LeetCode questions that I have solved till now!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/arnabastu/My_Leetcode/tree/master/0020-valid-parentheses) |
+| [0503-next-greater-element-ii](https://github.com/arnabastu/My_Leetcode/tree/master/0503-next-greater-element-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/arnabastu/My_Leetcode/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/arnabastu/My_Leetcode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
